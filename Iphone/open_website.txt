@@ -11,6 +11,6 @@ ENTER
 DELAY 1000 
 GUI L 
 REM Insert your website below 
-STRING croustycloud.fr
-DELAY 1000 
+STRING Iphone/open_website.txt
+DELAY 500 
 ENTER
