@@ -11,6 +11,6 @@ ENTER
 DELAY 1000 
 GUI L 
 REM Insert your website below 
-STRING Iphone/open_website.txt
+STRING https://i.ytimg.com/vi/UiOaueyATRo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvschfJxgyWlgynyR8Y7_Pgnd3Yg
 DELAY 500 
 ENTER
