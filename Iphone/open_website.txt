@@ -11,6 +11,6 @@ ENTER
 DELAY 1000 
 GUI L 
 REM Insert your website below 
-STRING croustycloud.fr
+STRING https://i.ytimg.com/vi/svGW2a6ml5c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfZ3pxG9INDQeRqG26VbXzzAVkuw
 DELAY 1000 
 ENTER
